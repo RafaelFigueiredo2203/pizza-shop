@@ -1,4 +1,4 @@
-type OrderSatusType =
+export type OrderSatusType =
   | 'pending'
   | 'canceled'
   | 'processing'
