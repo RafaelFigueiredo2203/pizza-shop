@@ -8,7 +8,7 @@ import { queryClient } from '@/lib/react-query'
 import { SignIn } from './sigin'
 
 describe('SignIn', () => {
-  it('should highlight the nav link when is the current page link', () => {
+  it('should set default email input value if email is present on search params', () => {
     const wrapper = render(<SignIn />, {
       wrapper: ({ children }) => {
         return (
