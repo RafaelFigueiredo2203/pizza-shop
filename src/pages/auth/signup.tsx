@@ -42,7 +42,7 @@ export function SignUp() {
       toast.success('Cadastrado com sucesso!', {
         action: {
           label: 'Login',
-          onClick: () => navigate(`/signin?email=${data.email}`),
+          onClick: () => navigate(`/sign-in?email=${data.email}`),
         },
       })
     } catch {
@@ -55,7 +55,7 @@ export function SignUp() {
       <Helmet title="Cadastro" />
       <div className="p-8">
         <Button variant="link" asChild className="absolute right-8 top-8">
-          <Link to="/signin">Fazer Login</Link>
+          <Link to="/sign-in">Fazer Login</Link>
         </Button>
         <div className="flex w-[350px] flex-col justify-center gap-6">
           <div className="flex flex-col gap-2 text-center ">
