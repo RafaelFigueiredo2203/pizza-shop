@@ -23,13 +23,13 @@ Pizza Shop
 
 ## 💻 Projeto
 
-Pizza shop  , um projeto para gerenciar sua loja e seus pedidos , nessa aplicação , o usuário pode cadstrar sua loja , monitorar seu faturamento no mês , ver produtos populares  , filtrar por datas , verificar e filtrar seus pedidos , alterar o status de entrega do pedido ou cancelar o mesmo . <br>
-Essa aplicação foi construída com Vite , aprimorei meus conhecimentos em consumo de APIs , também em testes usando o vitest , para testar nossos componentes , testes unitários e E2E. <br>
-Usamos o react-query para termos um desempenho melhor em relação ao consumo dos dados . <br>
-Gostei muito de desenvolver essa aplicação e acredito que os conhecimentos que aprendi durante o desenvolvimento , irá agregar muito em minha carreira profissional .
+Pizza shop  , um projeto para gerenciar sua loja e seus pedidos , nessa aplicação , o usuário pode cadastrar sua loja , monitorar seu faturamento no mês , ver produtos populares  , filtrar por datas , verificar e filtrar seus pedidos , alterar o status de entrega do pedido ou cancelar o mesmo . <br> <br>
+Essa aplicação foi construída com Vite , aprimorei meus conhecimentos em consumo de APIs , também em testes usando o vitest , para testar nossos componentes , testes unitários e E2E. <br> <br>
+Usamos o react-query para termos um desempenho melhor em relação ao consumo dos dados . <br> <br>
+Gostei muito de desenvolver essa aplicação e acredito que os conhecimentos que aprendi durante o desenvolvimento , irá agregar muito em minha carreira profissional . <br>
  <br>
 
-Acesse : https://mks-front-end-challenge-xi.vercel.app/
+
 
 ## ✨ Tecnologias
 
