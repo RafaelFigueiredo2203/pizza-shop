@@ -23,9 +23,9 @@ Pizza Shop
 
 ## 💻 Projeto
 
-Pizza shop  , um projeto para gerenciar sua loja e seus pedidos , nessa aplicação , o usuário pode cadstrar sua loja , monitorar seu faturamento no mês , ver produtos populares  , filtrar por datas , verificar e filtrar seus pedidos , alterar o status de entrega do pedido ou cancelar o mesmo .
-Essa aplicação foi construída com Vite , aprimorei meus conhecimentos em consumo de APIs , também em testes usando o vitest , para testar nossos componentes , testes unitários e E2E.
-Usamos o react-query para termos um desempenho melhor em relação ao consumo dos dados .
+Pizza shop  , um projeto para gerenciar sua loja e seus pedidos , nessa aplicação , o usuário pode cadstrar sua loja , monitorar seu faturamento no mês , ver produtos populares  , filtrar por datas , verificar e filtrar seus pedidos , alterar o status de entrega do pedido ou cancelar o mesmo . <br>
+Essa aplicação foi construída com Vite , aprimorei meus conhecimentos em consumo de APIs , também em testes usando o vitest , para testar nossos componentes , testes unitários e E2E. <br>
+Usamos o react-query para termos um desempenho melhor em relação ao consumo dos dados . <br>
 Gostei muito de desenvolver essa aplicação e acredito que os conhecimentos que aprendi durante o desenvolvimento , irá agregar muito em minha carreira profissional .
  <br>
 
@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - **[Date-fns](https://date-fns.org/docs/)**: Biblioteca de utilitários para manipulação de datas em JavaScript.
 - **[React Hook Form](https://react-hook-form.com/get-started)**: Biblioteca para gerenciamento de formulários em React.
 - **[Tanstack React Query](https://tanstack.com/query/v5)**: Ferramenta de gerenciamento de estado assíncrono para React.
-- **[Zod](https://zod.dev/)**: Biblioteca para validação e criação de esquemas de dados em TypeScript.
+- **[Zod](https://zod.dev/)**: Biblioteca para validação e criação de esquemas de dados em TypeScript. <br>
 	Entre outras.
 
 
